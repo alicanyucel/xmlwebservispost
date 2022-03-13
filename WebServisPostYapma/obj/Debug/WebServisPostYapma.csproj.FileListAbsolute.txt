@@ -1,0 +1,11 @@
+D:\Projeler\CSharpWinForm\WebServisPostYapma\WebServisPostYapma\obj\Debug\WebServisPostYapma.csproj.AssemblyReference.cache
+D:\Projeler\CSharpWinForm\WebServisPostYapma\WebServisPostYapma\obj\Debug\WebServisPostYapma.Form1.resources
+D:\Projeler\CSharpWinForm\WebServisPostYapma\WebServisPostYapma\obj\Debug\WebServisPostYapma.Properties.Resources.resources
+D:\Projeler\CSharpWinForm\WebServisPostYapma\WebServisPostYapma\obj\Debug\WebServisPostYapma.csproj.GenerateResource.cache
+D:\Projeler\CSharpWinForm\WebServisPostYapma\WebServisPostYapma\obj\Debug\WebServisPostYapma.csproj.CoreCompileInputs.cache
+D:\Projeler\CSharpWinForm\WebServisPostYapma\WebServisPostYapma\bin\Debug\WebServisPostYapma.exe.config
+D:\Projeler\CSharpWinForm\WebServisPostYapma\WebServisPostYapma\bin\Debug\WebServisPostYapma.exe
+D:\Projeler\CSharpWinForm\WebServisPostYapma\WebServisPostYapma\bin\Debug\WebServisPostYapma.pdb
+D:\Projeler\CSharpWinForm\WebServisPostYapma\WebServisPostYapma\obj\Debug\WebServisPostYapma.exe
+D:\Projeler\CSharpWinForm\WebServisPostYapma\WebServisPostYapma\obj\Debug\WebServisPostYapma.pdb
+D:\Projeler\CSharpWinForm\WebServisPostYapma\WebServisPostYapma\bin\Debug\XmlSorguDosyalari\topla.xml
